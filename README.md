@@ -54,7 +54,7 @@
 |:---:|:---|:---|
 | `01` | **[PayLens](https://github.com/Elijah-hash7/payLens)** | dual-agent AI · financial signal extraction · Gemini + Elasticsearch |
 | `02` | **[Pacifica](https://github.com/Elijah-hash7/pacifica_solana_trading)** | Farcaster mini app for a Solana perp DEX · market analysis + trade execution |
-| `03` | **[Shipyard](https://github.com/Elijah-hash7)** | self-hosted deploy pipeline · live SSE logs · Docker orchestration |
+| `03` | **[deployKit](https://github.com/Elijah-hash7)** | self-hosted deploy pipeline · live SSE logs · Docker orchestration |
 
 </div>
 
